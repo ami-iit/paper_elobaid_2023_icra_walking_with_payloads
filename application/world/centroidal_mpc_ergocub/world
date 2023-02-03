@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<sdf version="1.4">
+  <world name="default">
+
+    <physics type="ode">
+      <max_step_size>0.001</max_step_size>
+      <real_time_update_rate>1000</real_time_update_rate>
+    </physics>
+
+    <!-- Light -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <!-- Ground Plane -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <model name="iCub">
+      <plugin name='torso_configuration_override' filename='libgazebo_yarp_configurationoverride.so'>
+        <yarpPluginConfigurationOverride plugin_name='controlboard_torso'> </yarpPluginConfigurationOverride>
+        <initialConfiguration>0.0    0.27530    0.0</initialConfiguration>
+      </plugin>
+      <plugin name='larm_configuration_override' filename='libgazebo_yarp_configurationoverride.so'>
+        <yarpPluginConfigurationOverride plugin_name='controlboard_left_arm_no_hand'> </yarpPluginConfigurationOverride>
+        <initialConfiguration>-0.4637636529   0.2474649987  0   0.44648663859    -0.4276057     0.4276057   0  </initialConfiguration>
+      </plugin>
+      <plugin name='rarm_configuration_override' filename='libgazebo_yarp_configurationoverride.so'>
+        <yarpPluginConfigurationOverride plugin_name='controlboard_right_arm_no_hand'> </yarpPluginConfigurationOverride>
+        <initialConfiguration>-0.4637636529   0.2474649987  0   0.44648663859    -0.4276057     0.4276057   0  </initialConfiguration>
+      </plugin>
+      <plugin name='lleg_configuration_override' filename='libgazebo_yarp_configurationoverride.so'>
+        <yarpPluginConfigurationOverride plugin_name='controlboard_left_leg'> </yarpPluginConfigurationOverride>
+        <initialConfiguration>0.0725    0.0275   -0.0098   -0.8688   -0.5254   -0.0283</initialConfiguration>
+      </plugin>
+      <plugin name='rleg_configuration_override' filename='libgazebo_yarp_configurationoverride.so'>
+        <yarpPluginConfigurationOverride plugin_name='controlboard_right_leg'> </yarpPluginConfigurationOverride>
+        <initialConfiguration>0.0725    0.0275   -0.0098   -0.8688   -0.5254   -0.0283</initialConfiguration>
+      </plugin>
+      <include>
+        <uri>model://ergoCubGazeboV1</uri>
+        <pose>0.0 0.0 0.72 0.0 -0.27 0.0</pose>
+      </include>
+    </model>
+    
+    <model name="small_box">
+      <include>
+        <pose>0.34 0.0 0.95 0.0 0.0 0.0</pose>
+        <uri>model://small_box</uri>
+      </include>
+      <!--Linkattacher Plugin-->
+      <plugin name='link_attacher' filename='libgazebo_yarp_linkattacher.so'>
+        <yarpConfigurationFile>model://small_box/conf/linkattacher.ini</yarpConfigurationFile>
+      </plugin>
+    </model>
+    
+  </world>
+</sdf>
