@@ -1,1 +1,1 @@
-# paper_elobaid_2023_icra_walking_with_payloads
+# Online non-linear payload-aware centroidal MPC with Contact-Stable force parametrization for humanoid robots 
