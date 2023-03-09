@@ -1,0 +1,516 @@
+{
+  "left_foot": [
+    {
+      "activation_time": 0.0,
+      "deactivation_time": 5.800000000000001,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        0.0,
+        0.08,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.034262080095364536,
+        0.9994128825803372
+      ]
+    },
+    {
+      "activation_time": 9.399999999999999,
+      "deactivation_time": 16.8,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        0.18164987708521774,
+        0.06808033932691646,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.006566116612032594,
+        0.9999784428239626
+      ]
+    },
+    {
+      "activation_time": 21.400000000000002,
+      "deactivation_time": 27.400000000000002,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        0.4642574435925182,
+        0.06732141885062301,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.02705072249149139,
+        0.9996340622511262
+      ]
+    },
+    {
+      "activation_time": 31.799999999999997,
+      "deactivation_time": 37.800000000000004,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        0.7528960872352586,
+        0.0559012506616346,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.0214751792089752,
+        0.9997693817465818
+      ]
+    },
+    {
+      "activation_time": 42.400000000000006,
+      "deactivation_time": 48.4,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.0635388053846948,
+        0.04934822590606048,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.013850441269625232,
+        0.9999040780378069
+      ]
+    },
+    {
+      "activation_time": 52.800000000000004,
+      "deactivation_time": 58.8,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.3422256467495952,
+        0.049818585196207105,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.008306087415052201,
+        0.999965503860935
+      ]
+    },
+    {
+      "activation_time": 63.2,
+      "deactivation_time": 71.4,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.6257485578419641,
+        0.04829112073233796,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.0036426121689466374,
+        0.9999933656662862
+      ]
+    },
+    {
+      "activation_time": 77.2,
+      "deactivation_time": 85.4,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.637532329534265,
+        -0.005021316699602818,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.03767253571253654,
+        0.9992901380745172
+      ]
+    },
+    {
+      "activation_time": 91.4,
+      "deactivation_time": 99.0,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.6493809230292937,
+        -0.055439384706523015,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.05701696249569839,
+        0.9983732097706569
+      ]
+    },
+    {
+      "activation_time": 105.0,
+      "deactivation_time": 112.6,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.6628219108205062,
+        -0.10483723999391978,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.08381269064043446,
+        0.9964815266163296
+      ]
+    },
+    {
+      "activation_time": 118.6,
+      "deactivation_time": 126.4,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.6789369717956002,
+        -0.15369132787193762,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.11100879850544176,
+        0.9938194235646526
+      ]
+    },
+    {
+      "activation_time": 132.4,
+      "deactivation_time": 140.0,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.6980844432383095,
+        -0.20254961983251374,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.13586334427954708,
+        0.9907275870193467
+      ]
+    },
+    {
+      "activation_time": 146.0,
+      "deactivation_time": 153.6,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.719885988990755,
+        -0.2506900911329369,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.1612589565489376,
+        0.9869121282732054
+      ]
+    },
+    {
+      "activation_time": 159.60000000000002,
+      "deactivation_time": 167.2,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.7443883695235514,
+        -0.2979686888797371,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.18618519217722368,
+        0.9825146687016587
+      ]
+    },
+    {
+      "activation_time": 173.2,
+      "deactivation_time": 180.8,
+      "index": 29,
+      "name": "ContactList",
+      "position": [
+        1.77039999342615,
+        -0.3430081122494866,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.21131184110487655,
+        0.9774186952421503
+      ]
+    }
+  ],
+  "right_foot": [
+    {
+      "activation_time": 0.0,
+      "deactivation_time": 10.2,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        0.0,
+        -0.08,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.03664007653232923,
+        0.9993285269578294
+      ]
+    },
+    {
+      "activation_time": 16.200000000000003,
+      "deactivation_time": 21.8,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        0.3002613092001155,
+        -0.08592039907517753,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.01143444365883028,
+        0.9999346246121359
+      ]
+    },
+    {
+      "activation_time": 26.799999999999997,
+      "deactivation_time": 32.199999999999996,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        0.5919753631198418,
+        -0.09887803071290786,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.006148284530318593,
+        0.9999810991200455
+      ]
+    },
+    {
+      "activation_time": 37.400000000000006,
+      "deactivation_time": 42.599999999999994,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        0.8963656765701968,
+        -0.10590758413136132,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        -0.0005082773524614038,
+        0.9999998708270581
+      ]
+    },
+    {
+      "activation_time": 47.800000000000004,
+      "deactivation_time": 53.2,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.1841922305078638,
+        -0.10874244035837195,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.007161614543387018,
+        0.9999743553097409
+      ]
+    },
+    {
+      "activation_time": 58.2,
+      "deactivation_time": 63.6,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.4715653190269196,
+        -0.11209543027259716,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.01257341956066435,
+        0.9999209514359381
+      ]
+    },
+    {
+      "activation_time": 71.0,
+      "deactivation_time": 79.39999999999999,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.5079120645498738,
+        -0.148374269788172,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.000984388101254292,
+        0.9999995154899157
+      ]
+    },
+    {
+      "activation_time": 85.0,
+      "deactivation_time": 93.2,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.5219598625336146,
+        -0.19586138710463555,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.021734329366173262,
+        0.9997637815639265
+      ]
+    },
+    {
+      "activation_time": 98.80000000000001,
+      "deactivation_time": 106.8,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.5376174333160755,
+        -0.2449680576945671,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.0453378440328545,
+        0.9989717112603602
+      ]
+    },
+    {
+      "activation_time": 112.4,
+      "deactivation_time": 120.4,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.556336645918656,
+        -0.294883544322862,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.07245527032556667,
+        0.9973716628228662
+      ]
+    },
+    {
+      "activation_time": 126.0,
+      "deactivation_time": 134.0,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.5785108351412214,
+        -0.3459771698431885,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.0990704382322201,
+        0.9950804230153841
+      ]
+    },
+    {
+      "activation_time": 139.60000000000002,
+      "deactivation_time": 147.60000000000002,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.603827088718109,
+        -0.39686752068290143,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.1251631247007386,
+        0.9921361762455532
+      ]
+    },
+    {
+      "activation_time": 153.2,
+      "deactivation_time": 161.4,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.63243706714655,
+        -0.4475924417589156,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.15106585436212544,
+        0.9885237011047541
+      ]
+    },
+    {
+      "activation_time": 167.0,
+      "deactivation_time": 175.0,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.6634823094311522,
+        -0.49673680183732516,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.1735307743379148,
+        0.9848284471712236
+      ]
+    },
+    {
+      "activation_time": 180.6,
+      "deactivation_time": 180.8,
+      "index": 35,
+      "name": "ContactList",
+      "position": [
+        1.6974534910957901,
+        -0.5446487972856964,
+        0.0
+      ],
+      "quaternion": [
+        0.0,
+        0.0,
+        0.2002098547894736,
+        0.9797530372727496
+      ]
+    }
+  ]
+}
