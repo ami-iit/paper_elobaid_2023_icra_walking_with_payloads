@@ -18,8 +18,6 @@ Mohamed Elobaid, Giulio Romualdi, Gabriele Nava, Lorenzo Rapetti, Hosameldin Awa
   IEEE International Conference of Robotics and Automation (ICRA), 2023
 </div>
 
-### ⚠️ This repo is under construction 
-
 <div align="center">
   <a href="#installation"><b>installation</b></a> |
   <a href="#usage"><b>usage</b></a> |
@@ -73,7 +71,7 @@ cd /where/you/cloned/robotology-superbuild/src/bipedal-locomotion-framework/src
 git checkout feature/CentroidalMPC
 ```
 
-You need to replace the contents of the folder `ReducedModelControllers` in this rewith the folder of the same name found in this repo, then
+You need to replace the contents of the folder `ReducedModelControllers` in the bipedal-locomotion-framework with the folder of the same name found in this repo, then
 
 ```
 cd /where/you/cloned/robotology-superbuild/builde/src/bipedal-locomotion-framework
